@@ -45,6 +45,16 @@ export default defineConfig({
         ],
       },
       {
+        text: "API Reference",
+        items: [
+          { text: "Overview", link: "/api/" },
+          { text: "Authentication", link: "/api/authentication" },
+          { text: "Players", link: "/api/players" },
+          { text: "Matches", link: "/api/matches" },
+          { text: "Errors", link: "/api/errors" },
+        ],
+      },
+      {
         text: "Reference",
         items: [
           { text: "Gaff App", link: "https://gaff.coach" },
