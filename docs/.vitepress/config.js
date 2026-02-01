@@ -11,7 +11,7 @@ export default defineConfig({
     logo: "/logo.png",
 
     nav: [
-      { text: "Vision", link: "/vision" },
+      { text: "API", link: "/api/" },
       { text: "Competitions", link: "/competitions" },
       { text: "Roadmap", link: "/roadmap" },
     ],
